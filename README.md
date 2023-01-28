@@ -1,7 +1,6 @@
 # Vocally_assingment
 assingment
-# FlexMoney
-Full stack yoga registration
+
 
 
 ## Run Locally
@@ -34,7 +33,7 @@ Install dependencies of frontend
 
 ```bash
   cd client
-  npm install 
+  npm run dev 
 ```
 
 Start the server
